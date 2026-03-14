@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青いまま",
+  "base_artist": "兎咲ミミ",
+  "createdAt": "2026-03-14T13:06:34.853582Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青いまま",
+      "artist": "兎咲ミミ",
+      "has_synced": false,
+      "path": "select/pl_01_青いまま_兎咲ミミ.txt"
+    }
+  ]
+}
